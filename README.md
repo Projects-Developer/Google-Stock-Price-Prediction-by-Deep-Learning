@@ -32,7 +32,9 @@ Result visualization
 Research Paper:
 Project is totally based on research papers as project predict output using LSTM based deep learning models
 https://arxiv.org/abs/2009.10819
+
 https://www.aclweb.org/anthology/W19-6403.pdf
+
 https://www.sciencedirect.com/science/article/pii/S1877050920304865
 
 
@@ -41,7 +43,7 @@ https://www.sciencedirect.com/science/article/pii/S1877050920304865
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">I'm a Developer from India ❤</h3>
 
-You Can use this Beautiful Project for your college Project and get good marks too. 
+**You Can use this Beautiful Project for your college Project and get good marks too.**
 
 Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
