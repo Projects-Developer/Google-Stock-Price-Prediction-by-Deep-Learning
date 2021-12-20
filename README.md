@@ -42,20 +42,14 @@ https://www.sciencedirect.com/science/article/pii/S1877050920304865
 
 
 
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">I'm a Developer from India ❤</h3>
+<h1 align="center"> नमस्ते (Namaste) 🙏🏻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h3 align="center">We are Project Developers ❤</h3>
 
-**You Can use this Beautiful Project for your college Project and get good marks too.**
+<h3 align="center">You Can use this Beautiful Project for your college Project and get good marks too ❤</h3>
 
 Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
 💌 Feel free to contact me for any kind of help on projects.
-
-### WANT RESEARCH PAPER
- Email me at **vatshayan007@gmail.com** to get PDF of Research paper.
- 
-### HOW TO RUN THE PROJECT-
-⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
 
 ### 📫 HOW TO REACH ME 
 
