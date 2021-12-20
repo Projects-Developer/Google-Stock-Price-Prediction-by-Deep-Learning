@@ -16,7 +16,7 @@ Fundamental Analysis involves analyzing the company’s future profitability on 
 Technical Analysis, on the other hand, includes reading the charts and using statistical figures to identify the trends in the stock market.
 As you might have guessed, our focus will be on the technical analysis and visualization part. We’ll be using a dataset from Google stock Price test and train.
  
-## Youtube Video of this Project: https://www.youtube.com/watch?v=44u5oU9MQGg
+### Youtube Video of this Project: https://www.youtube.com/watch?v=44u5oU9MQGg
 
 ## Implementation:
 Using Sckiit Learning( Machine Learning model)
